@@ -1,9 +1,0 @@
-[submodule "themes/andromeda-light-hugo"]
-	path = themes/andromeda-light-hugo
-	url = https://github.com/p2p-b2b/andromeda-light-hugo
-[submodule "p2p-b2b.com/themes/andromeda-light-hugo"]
-	path = p2p-b2b.com/themes/andromeda-light-hugo
-	url = https://github.com/p2p-b2b/andromeda-light-hugo
-[submodule "p2p-b2b.com/themes/hugo-universal-theme"]
-	path = p2p-b2b.com/themes/hugo-universal-theme
-	url = https://github.com/p2p-b2b/hugo-universal-theme
